@@ -41,7 +41,7 @@ This project explores the relationship between financial news content and market
 ## 建模与评估 | Modeling & Evaluation
 
 - **情感统计特征建模**：使用每日情感均值 / 方差预测 VIX 指数；
-- **回归模型**：包括 Ridge Regression、Random Forest；
+- **回归模型**：包括 Ridge Regression、Random Forest, MLP, CNN；
 - **交叉验证**：评估模型稳定性，提升泛化性能；
 - **时序可视化**：结合历史事件分析模型预测信号与真实波动之间的对齐程度。
 
