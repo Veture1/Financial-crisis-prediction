@@ -49,8 +49,8 @@ This project explores the relationship between financial news content and market
 
 ## 项目网站 | Project Website
 
-📎 [https://fdh.epfl.ch/index.php/Tracking_a_Historic_Market_Crash_through_Articles](https://fdh.epfl.ch/index.php/Tracking_a_Historic_Market_Crash_through_Articles)
-If you want the access of our full datasets, please click https://drive.google.com/drive/folders/1Qub83w8ZarZNbc8vtlHzzgrigN9g8IKu?usp=drive_link
+📎 [https://fdh.epfl.ch/index.php/Tracking_a_Historic_Market_Crash_through_Articles](https://fdh.epfl.ch/index.php/Tracking_a_Historic_Market_Crash_through_Articles)  
+📎 If you want the access of our full datasets, please click https://drive.google.com/drive/folders/1Qub83w8ZarZNbc8vtlHzzgrigN9g8IKu?usp=drive_link
 ---
 
 ## 作者 | Authors
